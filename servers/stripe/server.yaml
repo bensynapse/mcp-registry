@@ -12,7 +12,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/856813?s=200&v=4
 source:
   project: https://github.com/stripe/agent-toolkit
-  commit: 5af4bcd15813cbcbd91baceeb5ec79cf975035f1
+  commit: 1b71f4bcc916dcabda8816964091ab23664c84df
   directory: tools/modelcontextprotocol
 run:
   command:
